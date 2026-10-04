@@ -1,4 +1,4 @@
-# Cisco Networking Projects
+# enterprise-network-design
 
 Two network designs I built in **Cisco Packet Tracer** for my Bachelor of Cybersecurity at Victoria University.
 
